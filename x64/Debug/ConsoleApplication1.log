@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\mikha\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(192,22): warning C4101: countSubjectGrades: неиспользованная локальная переменная
+C:\Users\mikha\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(627,17): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\mikha\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(735,45): warning C4267: /=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mikha\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(829,16): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\mikha\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
